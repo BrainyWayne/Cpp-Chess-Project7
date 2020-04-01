@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/Game.h
+fstream
+-
+
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/Opening.h
+
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/main.cpp
+iostream
+-
+fstream
+-
+Opening.h
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/Opening.h
+Game.h
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/Game.h
+stdlib.h
+-
+iomanip
+-
+sstream
+-
+

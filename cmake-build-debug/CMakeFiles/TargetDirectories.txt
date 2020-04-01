@@ -1,0 +1,3 @@
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/franciseshun/Desktop/Algos/Cpp-Chess-Project7/cmake-build-debug/CMakeFiles/Cpp_Chess_Project7.dir

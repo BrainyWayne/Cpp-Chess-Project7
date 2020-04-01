@@ -1,0 +1,36 @@
+7
+King's Gambit
+3
+e4 e5 f4
+4055
+31 32 37
+Italian Game
+3
+e4 e5 Bc4
+6712
+36 40 24
+Bishop's Opening
+4
+e4 e5 Bc4 Nc6
+955
+39 36 26
+Ruy Lopez
+5
+e4 e5 Nf3 Nc6 Bb5
+108725
+31 50 20
+English Opening Anglo-Dutch Defense
+3
+c4 f5 Kc3
+1021
+37 37 26
+Canard Opening
+6
+d4 Nf6 f4 d5 Nf3 Kd7
+1
+0 0 100
+Zukertort Opening Sicilian Invitation
+3
+Nf3 c5 c4
+16039
+31 45 23

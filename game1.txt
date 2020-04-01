@@ -1,0 +1,6 @@
+B 
+26 
+e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5
+g3 Ng4 a3 Bxf2+ Ke2 a6 Ng5 Nd4+ 
+Kf1 Qf6 b4 Be3+ Kg2 Qf2+ Kh3 d5 
+Rg1 Qxh2#
